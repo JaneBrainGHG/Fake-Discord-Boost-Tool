@@ -1,0 +1,4 @@
+discord.py==2.3.2
+requests==2.31.0
+colorama==0.4.6
+asyncio==3.4.3
