@@ -1,11 +1,9 @@
 # Fake-Discord-Boost-Tool
 
-╔═════════════════════════════════════════════════╗
-║             DISCORD BOOST GENERATOR             ║
-║               PREMIUM VERSION 2.0               ║
-╚═════════════════════════════════════════════════╝
 
-=================================================================================================
+           DISCORD BOOST GENERATOR             
+             PREMIUM VERSION 2.0               
+
 
 [🚀 QUICK START]
 1. Open "start.bat"
