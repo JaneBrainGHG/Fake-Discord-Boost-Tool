@@ -30,9 +30,9 @@ Before first use:
 2. Find this line:
    ```python
    self.webhook_url = "YOUR_WEBHOOK_URL"
-
 3. Replace "YOUR_WEBHOOK_URL" with your Discord webhook URL
-4. Save the file
+4. Save the file                                    
+
 [💻 REQUIREMENTS] • Bot needs message permissions • Valid webhook URL required • Python 3.8+
 
 [📝 ADDITIONAL INFO] • For educational purposes only • Use responsibly • Upadte will come soon
